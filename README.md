@@ -31,7 +31,3 @@ Desenvolvo e mantenho sistemas web para modernizar operações pedagógicas e ad
 Projetos side-hustle para o mercado local via **[Grave Solutions](https://github.com/carlosnsf)**.
 
 ---
-
-<div align="center">
-  <a href="https://github.com/carlosnsf">github.com/carlosnsf</a>
-</div>
