@@ -16,7 +16,7 @@ Também desenvolvo projetos próprios pela **Grave Solutions**, focados no merca
 
 ---
 
-################################################# Stack
+## <div align="center"> Stack </div>
 
 <div align="center">
 
