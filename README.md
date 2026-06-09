@@ -31,29 +31,6 @@ Também desenvolvo projetos próprios pela **Grave Solutions**, focados no merca
 
 </div>
 
----
-
-## Projetos
-
-**[avaliacao-plenus](https://github.com/carlosnsf/avaliacao-plenus)**
-Sistema de avaliação docente com device fingerprinting para prevenção de fraude. React + Supabase. Em produção.
-
-**[plenus-recruta](https://github.com/carlosnsf/plenus-recruta)**
-Portal de recrutamento interno com resumo automático de currículo via IA (Gemini 2.5 Flash + Cloudflare Functions).
-
-**[boletim-plenus](https://github.com/carlosnsf/boletim-plenus)**
-Digitalização do boletim escolar. Painel do professor + portal do responsável. 10 critérios pedagógicos e comportamentais.
-
-**[fresh-meat](https://github.com/carlosnsf/fresh-meat)**
-Sistema de pedidos para restaurantes pequenos. Roda 100% na rede local, zero custo de cloud. Node.js + Socket.io + SQLite. — *Grave Solutions*
-
----
-
-## Atualmente
-
-- Expandindo o módulo de RH do Plenus (recrutamento, desligamentos, ocorrências)
-- Explorando SaaS para profissionais de saúde independentes (React + Supabase, LGPD)
-- Estudando arquiteturas de agentes com n8n
 
 ---
 
