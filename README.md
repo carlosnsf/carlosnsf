@@ -8,11 +8,11 @@
 
 ---
 
-Desenvolvedor Full-Stack e Supervisor de TI no Colégio Plenus — Petrolina, PE.
+<div align="center"> Desenvolvedor Full-Stack e Supervisor de TI no Colégio Plenus — Petrolina, PE.
 
 Construo sistemas internos que substituem processos manuais: financeiro, recursos humanos, departamento pessoal, avaliação docente, relatórios pedagógicos, bots de atendimento. A maioria roda em produção com usuários reais.
 
-Também desenvolvo projetos próprios pela **Grave Solutions**, focados no mercado local.
+Também desenvolvo projetos próprios pela **Grave Solutions**, focados no mercado local.</div>
 
 ---
 
