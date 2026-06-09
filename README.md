@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,100:c85c0a&height=180&section=header&text=Carlos%20Nascimento&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20IT%20Supervisor%20%7C%20Petrolina%2C%20PE&descAlignY=58&descSize=16&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,100:c85c0a&height=180&section=header&text=Carlos%20Nunes&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20IT%20Supervisor%20%7C%20Petrolina%2C%20PE&descAlignY=58&descSize=16&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=c85c0a&center=true&vCenter=true&width=500&lines=Construindo+sistemas+reais+pra+problemas+reais.;React+%2B+TypeScript+%2B+Supabase+%2B+Cloudflare.;Escola+de+dia%2C+SaaS+de+noite.)](https://git.io/typing-svg)
 
