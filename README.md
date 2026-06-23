@@ -1,17 +1,15 @@
+<!-- Cabeçalho -->
 <div align="center">
   
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,100:c85c0a&height=180&section=header&text=Carlos%20Nunes&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20IT%20Supervisor%20%7C%20Petrolina%2C%20PE&descAlignY=58&descSize=16&animation=fadeIn)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=c85c0a&center=true&vCenter=true&width=500&lines=Construindo+sistemas+reais+pra+problemas+reais.;React+%2B+TypeScript+%2B+Supabase+%2B+Cloudflare.;IT+Leadership+%2B+Software+Engineering.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=c85c0a&center=true&vCenter=true&width=500&lines=Construindo+sistemas+reais+pra+problemas+reais.;React+%2B+Angular+%2B+TypeScript+%2B+Supabase+%2B+Cloudflare.;IT+Leadership+%2B+Software+Engineering.)](https://git.io/typing-svg)
 </div>
 
 ---
 
-<div align="center"> Desenvolvedor Full-Stack e Supervisor de TI no Colégio Plenus — Petrolina, PE.
-
+<div align="center">Desenvolvedor Full-Stack e Supervisor de TI no Colégio Plenus — Petrolina, PE.
 Construo sistemas internos que substituem processos manuais: financeiro, recursos humanos, departamento pessoal, avaliação docente, relatórios pedagógicos, bots de atendimento. A maioria roda em produção com usuários reais.
-
-Também desenvolvo projetos próprios pela **Grave Solutions**, focados no mercado local.</div>
+Também desenvolvo projetos próprios pela <b>Grave Solutions</b>, focados no mercado local.</div>
 
 ---
 
@@ -20,6 +18,7 @@ Também desenvolvo projetos próprios pela **Grave Solutions**, focados no merca
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -29,7 +28,6 @@ Também desenvolvo projetos próprios pela **Grave Solutions**, focados no merca
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 </div>
-
 
 ---
 
