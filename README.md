@@ -2,7 +2,6 @@
   MOCKUP de README de perfil — versão "sala de aula".
   Antes de publicar:
   - Revise os textos dos cards: foram escritos a partir dos nomes dos repositórios e da bio atual.
-  - Troque os placeholders SEU-USUARIO e SEU-EMAIL na seção "Recreio".
   - Remova o que não quiser divulgar (ex.: o projeto em construção na seção Laboratório).
 -->
 
@@ -162,7 +161,7 @@ Fora da escola, toco projetos próprios pela **Grave Solutions**, com foco no me
 Front-end      ██████████░░   9,0   React · Angular · TypeScript · Tailwind · Vite
 Back-end       █████████░░░   8,5   Node.js · Supabase · PostgreSQL
 Infra & Edge   ████████░░░░   8,0   Cloudflare · R2 · Docker
-Gestão de TI   █████████░░░   8,5   Infra, suporte, fornecedores, projetos
+Gestão de TI   ███████████░   9,5   Infra, suporte, fornecedores, projetos · recurso deferido
 Café           ████████████  10,0   Sem comentários da coordenação
 ```
 
@@ -222,8 +221,8 @@ Quando o sinal da escola toca, eu continuo construindo. Pela **Grave Solutions**
 
 Quer trocar ideia sobre sistemas internos, TI em escola ou tecnologia no Vale do São Francisco? O intervalo é agora.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![E-mail](https://img.shields.io/badge/E--mail-1a1f2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-nunes-21a994193)
+[![E-mail](https://img.shields.io/badge/E--mail-1a1f2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosnsf92@gmail.com)
 [![Grave Solutions](https://img.shields.io/badge/Grave_Solutions-2563eb?style=for-the-badge)](https://github.com/carlosnsf)
 
 </div>
