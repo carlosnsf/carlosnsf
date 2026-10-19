@@ -23,7 +23,7 @@
 
 Desenvolvedor full-stack e supervisor de TI no **Colégio Plenus**, em Petrolina (PE).
 
-Meu trabalho é pegar processo que vive em planilha, papel e grupo de WhatsApp e transformar em sistema: financeiro, RH, departamento pessoal, avaliação docente, relatórios pedagógicos, atendimento. A maioria roda em produção, todo dia, com gente de verdade usando.
+Meu trabalho é pegar processo que vive em planilha, papel e grupo de WhatsApp e transformar em sistema: financeiro, RH, departamento pessoal, avaliação docente, relatórios pedagógicos, atendimento em produção, todo dia, com usuários de verdade usando.
 
 Fora da escola, toco projetos próprios pela **Grave Solutions**, com foco no mercado local.
 
@@ -39,7 +39,6 @@ Fora da escola, toco projetos próprios pela **Grave Solutions**, com foco no me
 | 📍 **Base** | Petrolina, PE |
 | 🧪 **Lab** | Grave Solutions |
 | 🎯 **Missão** | Zero processo manual |
-| ☕ **Combustível** | Café. Depois mais café. |
 
 </td>
 </tr>
