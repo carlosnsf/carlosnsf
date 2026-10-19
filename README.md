@@ -1,8 +1,8 @@
 <!-- Cabeçalho -->
 <div align="center">
   
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,100:c85c0a&height=180&section=header&text=Carlos%20Nunes&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20IT%20Supervisor%20%7C%20Petrolina%2C%20PE&descAlignY=58&descSize=16&animation=fadeIn)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=c85c0a&center=true&vCenter=true&width=500&lines=Construindo+sistemas+reais+pra+problemas+reais.;React+%2B+Angular+%2B+TypeScript+%2B+Supabase+%2B+Cloudflare.;IT+Leadership+%2B+Software+Engineering.)](https://git.io/typing-svg)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,100:2563eb&height=180&section=header&text=Carlos%20Nunes&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20IT%20Supervisor%20%7C%20Petrolina%2C%20PE&descAlignY=58&descSize=16&animation=fadeIn)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=2563eb&center=true&vCenter=true&width=500&lines=Construindo+sistemas+reais+pra+problemas+reais.;React+%2B+Angular+%2B+TypeScript+%2B+Supabase+%2B+Cloudflare.;IT+Leadership+%2B+Software+Engineering.)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -35,6 +35,6 @@ Também desenvolvo projetos próprios pela <b>Grave Solutions</b>, focados no me
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:c85c0a,100:1a1f2e&height=100&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1a1f2e&height=100&section=footer&animation=fadeIn)
 
 </div>
